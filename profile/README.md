@@ -17,3 +17,4 @@
 | **레이다모의기**  | 이시원 연구원   | 미사일시스템.통제기술연구소.M&S개발단.3팀 |
 | **유도탄모의기**  | 김완수 연구원   | AI연구소.AI연구개발팀            |
 
+[SW 교육 드라이브 링크](https://drive.google.com/drive/folders/1MpeVsBuQ6DWiq1uDbx55UcQnd2lmpG1j?usp=drive_link)
